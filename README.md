@@ -9,8 +9,11 @@ across the screen at varying speeds (each time the script runs, the cars travel 
 Once the first car has completed the race, the scoreboard prints the which car came in first/second place, and the time it took to
 cross the screen.
 
+### <a href="https://jnikkiyoke.github.io/jQuery-game/">TRY IT!</a>
+
 Pretty cool!
 
+*NOTE: there is currently an issue with the road image appearing behind the cars in the live version on GitHub. I am working to resolve this.*
 ![screenshot1](https://cloud.githubusercontent.com/assets/22644490/24336456/a653819a-1244-11e7-85ab-714bc2571f01.PNG)
 
-*NOTE: there is currently an issue with the road image appearing behind the cars in the live version on GitHub. I am working to resolve this.*
+
