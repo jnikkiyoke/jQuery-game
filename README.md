@@ -12,3 +12,5 @@ cross the screen.
 Pretty cool!
 
 ![screenshot1](https://cloud.githubusercontent.com/assets/22644490/24336456/a653819a-1244-11e7-85ab-714bc2571f01.PNG)
+
+*NOTE: there is currently an issue with the road image appearing behind the cars in the live version on GitHub. I am working to resolve this.*
